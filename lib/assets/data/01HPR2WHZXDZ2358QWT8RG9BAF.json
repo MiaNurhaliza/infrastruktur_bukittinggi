@@ -1,0 +1,2405 @@
+{
+    "type": "FeatureCollection",
+    "name": "Tiang_FO",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "NO": "002",
+                "NAME": "002/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.36836, -0.28328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "003",
+                "NAME": "003/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.368943, -0.282937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "013",
+                "NAME": "013/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369117, -0.282815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "014",
+                "NAME": "014/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369313, -0.282661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "015",
+                "NAME": "015/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369427, -0.282758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "016",
+                "NAME": "016/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369641, -0.283008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "017",
+                "NAME": "017/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369952, -0.283305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "018",
+                "NAME": "018/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370213, -0.28352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "019",
+                "NAME": "019/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37061, -0.283888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "020",
+                "NAME": "020/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370826, -0.284111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "021",
+                "NAME": "021/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371134, -0.284412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "022",
+                "NAME": "022/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371419, -0.284711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "023",
+                "NAME": "023/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371671, -0.285031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "024",
+                "NAME": "024/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371933, -0.285311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "025",
+                "NAME": "025/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372212, -0.285625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "026",
+                "NAME": "026/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37236, -0.285811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "027",
+                "NAME": "027/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372693, -0.286141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "028",
+                "NAME": "028/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372977, -0.286463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "029",
+                "NAME": "029/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373177, -0.286752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "030",
+                "NAME": "030/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37347, -0.287094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "031",
+                "NAME": "031/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373666, -0.287385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "032",
+                "NAME": "032/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373868, -0.287658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "033",
+                "NAME": "033/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374374, -0.288575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "034",
+                "NAME": "034/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374533, -0.288944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "035",
+                "NAME": "035/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37465, -0.289343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "036",
+                "NAME": "036/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374744, -0.28963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "037",
+                "NAME": "037/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374843, -0.289902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "038",
+                "NAME": "038/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374981, -0.290249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "045",
+                "NAME": "045/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375821, -0.29322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "046",
+                "NAME": "046/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375975, -0.293656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "047",
+                "NAME": "047/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376119, -0.293938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "048",
+                "NAME": "048/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376331, -0.294577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "049",
+                "NAME": "049/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376515, -0.295023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "050",
+                "NAME": "050/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376809, -0.29549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "051",
+                "NAME": "051/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376971, -0.295846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "052",
+                "NAME": "052/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377141, -0.296192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "053",
+                "NAME": "053/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377528, -0.29666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "054",
+                "NAME": "054/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377816, -0.296884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "056",
+                "NAME": "056/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378609, -0.297741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "057",
+                "NAME": "057/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378768, -0.298059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "058",
+                "NAME": "058/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378993, -0.298536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "062",
+                "NAME": "062/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.390544, -0.29662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "063",
+                "NAME": "063/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.390097, -0.296678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "064",
+                "NAME": "064/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.389557, -0.296694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "066",
+                "NAME": "066/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.388816, -0.296793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "067",
+                "NAME": "067/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.388584, -0.296831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "068",
+                "NAME": "068/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.388226, -0.29688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "069",
+                "NAME": "069/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.387933, -0.296897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "070",
+                "NAME": "070/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.387633, -0.296932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "072",
+                "NAME": "072/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38691, -0.297011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "073",
+                "NAME": "073/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.386424, -0.297058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "074",
+                "NAME": "074/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.386315, -0.297052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "075",
+                "NAME": "075/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.385974, -0.297085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "076",
+                "NAME": "076/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.385648, -0.297114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "077",
+                "NAME": "077/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.385397, -0.297164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "078",
+                "NAME": "078/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.385107, -0.297214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "079",
+                "NAME": "0792/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.384618, -0.297346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "080",
+                "NAME": "080/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38441, -0.297398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "081",
+                "NAME": "081/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.384111, -0.297483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "082",
+                "NAME": "082/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.383195, -0.297713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "083",
+                "NAME": "083/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.382934, -0.297783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "084",
+                "NAME": "084/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.382388, -0.297888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "085",
+                "NAME": "085/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.382067, -0.297966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "086",
+                "NAME": "086/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.381755, -0.298041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "087",
+                "NAME": "087/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.381494, -0.298121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "088",
+                "NAME": "088/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38117, -0.298198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "089",
+                "NAME": "089/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.380719, -0.29831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "090",
+                "NAME": "090/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379824, -0.298524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "091",
+                "NAME": "091/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379584, -0.298575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "093",
+                "NAME": "093/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379153, -0.298715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "004",
+                "NAME": "004/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.368699, -0.282533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "005",
+                "NAME": "005/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.368458, -0.282194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "006",
+                "NAME": "006/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.367805, -0.281496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "007",
+                "NAME": "007/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.367528, -0.281211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "008",
+                "NAME": "008/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.367241, -0.280905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "009",
+                "NAME": "009/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.36696, -0.280622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "010",
+                "NAME": "010/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366491, -0.280174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "039",
+                "NAME": "039/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375092, -0.290566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "040",
+                "NAME": "040/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375337, -0.291308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "042",
+                "NAME": "042/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375476, -0.292088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "043",
+                "NAME": "043/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375548, -0.292394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "044",
+                "NAME": "044/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375692, -0.29284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "001",
+                "NAME": "001/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.368087, -0.283465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "094",
+                "NAME": "094/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378927, -0.298781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "095",
+                "NAME": "095/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378765, -0.298765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "096",
+                "NAME": "096/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37822, -0.298894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "097",
+                "NAME": "097/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377759, -0.299002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "098",
+                "NAME": "098/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377114, -0.299199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "099",
+                "NAME": "099/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376828, -0.299244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "100",
+                "NAME": "100/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375942, -0.299449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "101",
+                "NAME": "101/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375464, -0.299602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "102",
+                "NAME": "102/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37524, -0.299712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "103",
+                "NAME": "103/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374742, -0.300004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "104",
+                "NAME": "104/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374348, -0.300276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "105",
+                "NAME": "105/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373989, -0.300485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "106",
+                "NAME": "106/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373594, -0.300787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "107",
+                "NAME": "107/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373197, -0.301029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "012",
+                "NAME": "012/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366041, -0.279834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "011",
+                "NAME": "011/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.366324, -0.280015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "115",
+                "NAME": "115/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.384329, -0.313658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "116",
+                "NAME": "116/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.383795, -0.313439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "117",
+                "NAME": "117/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38329, -0.313302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "118",
+                "NAME": "118/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.382426, -0.313007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "119",
+                "NAME": "119/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.382005, -0.312889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "120",
+                "NAME": "120/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38151, -0.312732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "121",
+                "NAME": "121/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.380934, -0.312651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "122",
+                "NAME": "122/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.380324, -0.312658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "123",
+                "NAME": "123/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379908, -0.312647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "124",
+                "NAME": "124/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379252, -0.312584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "125",
+                "NAME": "125/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378533, -0.312473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "126",
+                "NAME": "126/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377954, -0.31232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "127",
+                "NAME": "127/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377087, -0.312146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "128",
+                "NAME": "128/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376942, -0.311991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "129",
+                "NAME": "129/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375893, -0.311588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "135",
+                "NAME": "135/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373369, -0.311179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "139",
+                "NAME": "139/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372267, -0.310825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "138",
+                "NAME": "138/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372609, -0.310909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "137",
+                "NAME": "137/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37268, -0.311026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "136",
+                "NAME": "136/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37309, -0.311115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "134",
+                "NAME": "134/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373743, -0.311288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "133",
+                "NAME": "133/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374253, -0.311428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "132",
+                "NAME": "132/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374754, -0.31153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "131",
+                "NAME": "131/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37485, -0.311451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "130",
+                "NAME": "130/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375477, -0.31156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "108",
+                "NAME": "108/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.369915, -0.307416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "140",
+                "NAME": "140/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371638, -0.311578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "148",
+                "NAME": "148/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373239, -0.313922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "147",
+                "NAME": "147/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371548, -0.31439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "153",
+                "NAME": "153/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371693, -0.314748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "152",
+                "NAME": "152/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372136, -0.314572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "151",
+                "NAME": "151/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372499, -0.314431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "150",
+                "NAME": "150/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372774, -0.31432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "149",
+                "NAME": "149/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373003, -0.314186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "141",
+                "NAME": "141/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375419, -0.291841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "055",
+                "NAME": "055/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.378127, -0.297236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "092",
+                "NAME": "092/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.379325, -0.29862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "071",
+                "NAME": "071/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.387364, -0.29696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "065",
+                "NAME": "065/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.389148, -0.29675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "168",
+                "NAME": "168/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376473, -0.319108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "169",
+                "NAME": "169/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376754, -0.319595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "170",
+                "NAME": "170/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377753, -0.321165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "171",
+                "NAME": "171/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.377924, -0.3214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "167",
+                "NAME": "167/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.376256, -0.318765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "155",
+                "NAME": "155/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371908, -0.31528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "156",
+                "NAME": "156/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372184, -0.315922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "157",
+                "NAME": "157/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372405, -0.316491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "158",
+                "NAME": "158/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372592, -0.316839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "159",
+                "NAME": "159/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372973, -0.317423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "160",
+                "NAME": "160/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372938, -0.31781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "161",
+                "NAME": "161/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373389, -0.318479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "162",
+                "NAME": "162/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.373979, -0.318707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "163",
+                "NAME": "163/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374411, -0.318871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "165",
+                "NAME": "165/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375764, -0.319419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "166",
+                "NAME": "166/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.375831, -0.319033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "113",
+                "NAME": "113/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371108, -0.310382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "112",
+                "NAME": "112/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370979, -0.309777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "111",
+                "NAME": "111/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370759, -0.309226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "110",
+                "NAME": "110/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3707, -0.309174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "109",
+                "NAME": "109/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371309, -0.308981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "146",
+                "NAME": "146/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371336, -0.313849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "145",
+                "NAME": "145/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371108, -0.313255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "144",
+                "NAME": "144/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370909, -0.312684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "143",
+                "NAME": "143/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370694, -0.312094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "142",
+                "NAME": "142/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.370975, -0.311904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "141",
+                "NAME": "141/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371255, -0.311765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "114",
+                "NAME": "114/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371543, -0.311356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "059",
+                "NAME": "059/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.39209, -0.296439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "060",
+                "NAME": "060/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.391696, -0.296465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "061",
+                "NAME": "061/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.390947, -0.296555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "154",
+                "NAME": "154/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.371235, -0.314859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NO": "164",
+                "NAME": "164/DISKOMINFO/BKT/2020",
+                "GAMBAR": "router.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.374945, -0.319082
+                ]
+            }
+        }
+    ]
+}
