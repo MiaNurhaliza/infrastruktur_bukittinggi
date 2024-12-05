@@ -164,7 +164,7 @@ class _InfraMainState extends State<InfraMain> {
       bottomNavigationBar: Container(
         height: 70,
         decoration: const BoxDecoration(
-          color: Color.fromARGB(255, 57, 40, 247),
+          color: Color.fromARGB(255, 99, 72, 255),
           borderRadius: BorderRadius.only(
             topLeft: Radius.circular(25),
             topRight: Radius.circular(25),
